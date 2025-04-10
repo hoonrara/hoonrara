@@ -77,13 +77,7 @@
 
 ---
 
-## 📈 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoonrara&show_icons=true&theme=default" />
-</p>
-
----
 
 ## 🎯 목표
 
