@@ -1,75 +1,65 @@
-<h1 align="center">👋 안녕하세요, 백엔드 개발자 김성훈입니다!</h1>
+👋 안녕하세요, 백엔드 개발자 김성훈입니다!</h1>
 
-<p align="center">기획부터 배포까지 직접 해보며 매일 성장하는 개발자입니다.</p>
+기획부터 개발, 배포까지 직접 경험하며 성장하는 개발자입니다.</p>
 
 ---
 
 ## 🛠️ Skills
 
 ### 🧩 Back-End  
-`Java` `Spring Boot` `JPA` `Spring Security` `OAuth2` `JWT` `REST API` `Validation`  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-%23323330.svg?style=flat-square)
+![Spring Security](https://img.shields.io/badge/Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+![OAuth2](https://img.shields.io/badge/OAuth2-blue?style=flat-square)
 
 ### 🎨 Front-End  
-`React` `Vite` `HTML` `CSS` `Tailwind CSS`  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 🗄️ Database & Infra  
-`MySQL` `Redis` `Docker` `AWS (EC2, RDS, S3)`  
+### 🗄️ DB & Infra  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-### 🛠 Tools  
-`Git` `GitHub` `Postman` `Notion` `Figma`  
+### ⚙️ Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ---
 
 ## 📚 Certificates
 
-- 🧾 **SQLD** (SQL 개발자 자격증)  
+- 📘 **SQLD** (SQL 개발자 자격증)
 - 🧾 **정보처리기사 필기 합격** (실기 준비 중)
 
 ---
 
 ## 💼 Projects
 
-### 📌 [MotionMate] 종합 운동 커뮤니티 플랫폼  
-> `2025.03 ~ 진행 중`
-
-- 운동 기록 (헬스, 러닝, 수영 등) + 통계 시각화  
-- 실시간 WebSocket 채팅방 + 지도 기반 운동 모임  
-- 굿즈 마켓 & 선착순 이벤트 (Redis 기반 동시성 처리)
-
----
-
-### 📌 [Quiz Platform] 퀴즈 생성 및 결과 분석 플랫폼  
-> `2025.02 ~ 진행 중`
-
-- OX, 이미지 기반, 과학/역사 퀴즈셋 제공  
-- JWT 로그인 + 정답 제출 + 다시 풀기 기능  
-- 사용자별 결과 저장 및 히스토리 기반 UX 제공
-
----
-
-### 📌 [LinkTree Clone] 나만의 링크 프로필 플랫폼  
-> `2024.12 ~ 2025.01`
-
-- 사용자 정보 + 링크 추가/삭제 + 방문 로그 추적  
-- S3 이미지 업로드, JWT 인증, Redis 로그아웃 처리  
-- 백엔드 API + React 프론트 구성
-
----
-
-### 📌 [BucketList App] 버킷리스트 SNS 웹앱  
-> `2024.10 ~ 2024.11`
-
-- 버킷 CRUD, 인증 사진 업로드, 좋아요/댓글  
-- QueryDSL 기반 동적 검색 + 공개 범위 설정
+| 프로젝트명 | 기간 | 주요 기능 요약 |
+|------------|------|----------------|
+| **MotionMate** | 2025.03 ~ 진행 중 | 운동 기록 + 통계, WebSocket 채팅, 지도 기반 모임, 굿즈 마켓 |
+| **Quiz Platform** | 2025.02 ~ 진행 중 | 퀴즈 생성/풀이, 점수/오답 확인, JWT 로그인, 히스토리 |
+| **LinkTree Clone** | 2024.12 ~ 2025.01 | 링크 관리, 방문 로그, JWT 인증, S3 업로드 |
+| **BucketList App** | 2024.10 ~ 2024.11 | 버킷 CRUD, 인증샷, 좋아요, QueryDSL 필터링 |
 
 ---
 
 ## 👤 About Me
 
-- 국민대학교 **임산생명공학과** 졸업 예정 (2025.02)  
-- **실무 수준의 아키텍처와 기술을 적용해보며** 성장 중인 주니어 백엔드 개발자입니다.  
-- 인증/인가, 예외처리, 도메인 분리, AWS 배포까지 **혼자서 전체 개발 흐름을 구현할 수 있는 능력**을 키웠습니다.  
-- 서비스의 **기획, 사용자 경험, 유지보수성까지 고민하는 개발자**가 되고 싶습니다.
+- 🎓 국민대학교 **임산생명공학과** 졸업 예정 (2025.02)  
+- **도메인을 깊이 이해하고**, 서비스 흐름을 설계하며 **기능과 유지보수를 모두 고려하는 백엔드 개발자**가 되고자 합니다.  
+- 백엔드 중심이지만, **프론트엔드와 인프라까지 함께 경험하며**  
+  혼자서도 전체 프로젝트를 설계하고 구현할 수 있는 능력을 키웠습니다.  
+- 무엇보다 팀과 함께하는 개발을 즐기며, 더 나은 코드를 위해 고민하는 개발자입니다.
 
 ---
 
