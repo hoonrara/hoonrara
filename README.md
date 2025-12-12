@@ -51,4 +51,3 @@
 - 📧 Email: hoonrara2@gmail.com  
 - 🐱 GitHub: [github.com/hoonrara](https://github.com/hoonrara)  
 - ✍️ Blog: [velog.io/@hoonrara/posts](https://velog.io/@hoonrara/posts)  
-- 📎 Portfolio: [miricanvas.com/v/14rw4j6](https://www.miricanvas.com/v/14rw4j6)
